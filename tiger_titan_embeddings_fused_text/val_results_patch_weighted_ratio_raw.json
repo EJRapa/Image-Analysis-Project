@@ -1,0 +1,8 @@
+{
+  "mae": 10.305082321166992,
+  "rmse": 14.478150367736816,
+  "r2": 0.7920167446136475,
+  "model": "patch_weighted_ratio",
+  "target_scale": 100,
+  "patch_feat_dim": 768
+}

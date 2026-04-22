@@ -1,0 +1,10 @@
+{
+  "mae": 10.816584587097168,
+  "rmse": 13.587282180786133,
+  "r2": 0.8168245553970337,
+  "model": "patch_weighted_ratio_calibrated",
+  "target_scale": 100,
+  "patch_feat_dim": 768,
+  "calibration_slope": 1.0714390277862549,
+  "calibration_intercept": 2.3570404052734375
+}

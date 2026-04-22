@@ -1,0 +1,7 @@
+{
+  "patch_size": 512,
+  "stride": 512,
+  "patch_size_lv0": 512,
+  "embedding_dim": 1537,
+  "n_slides": 82
+}

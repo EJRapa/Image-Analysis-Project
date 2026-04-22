@@ -1,0 +1,8 @@
+{
+  "mae": 23.108097076416016,
+  "rmse": 25.40374755859375,
+  "r2": 0.3596791625022888,
+  "model": "slide_mlp_calibrated",
+  "calibration_slope": 1.7177412509918213,
+  "calibration_intercept": -25.678203582763672
+}
