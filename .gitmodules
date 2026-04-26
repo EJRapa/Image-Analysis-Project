@@ -1,0 +1,3 @@
+[submodule "TILScout"]
+	path = TILScout
+	url = https://github.com/huibozh/TILScout.git

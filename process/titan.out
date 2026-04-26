@@ -1,0 +1,134 @@
+nohup: ignoring input
+Script started
+Using device: cuda:5
+Looking for slides in: /bulk/rapae/BMED6460/wsi_project/survival_data/slides
+/home/rapae/progs/miniconda3x86/envs/titan/lib/python3.9/site-packages/torchvision/datapoints/__init__.py:12: UserWarning: The torchvision.datapoints and torchvision.transforms.v2 namespaces are still Beta. While we do not expect major breaking changes, some APIs may still change according to user feedback. Please submit any feedback you may have in this issue: https://github.com/pytorch/vision/issues/6753, and you can also check out https://github.com/pytorch/vision/issues/7319 to learn more about the APIs that we suspect might involve future changes. You can silence this warning by calling torchvision.disable_beta_transforms_warning().
+  warnings.warn(_BETA_TRANSFORMS_WARNING)
+/home/rapae/progs/miniconda3x86/envs/titan/lib/python3.9/site-packages/torchvision/transforms/v2/__init__.py:54: UserWarning: The torchvision.datapoints and torchvision.transforms.v2 namespaces are still Beta. While we do not expect major breaking changes, some APIs may still change according to user feedback. Please submit any feedback you may have in this issue: https://github.com/pytorch/vision/issues/6753, and you can also check out https://github.com/pytorch/vision/issues/7319 to learn more about the APIs that we suspect might involve future changes. You can silence this warning by calling torchvision.disable_beta_transforms_warning().
+  warnings.warn(_BETA_TRANSFORMS_WARNING)
+
+Processing TCGA-A7-A4SF-01Z-00-DX1.CDCFD4BC-4363-4CF2-95F5-4922E04C3B9D.svs
+Warning: missing objective and mpp; assuming 20x
+TCGA-A7-A4SF-01Z-00-DX1.CDCFD4BC-4363-4CF2-95F5-4922E04C3B9D.svs: 1236 tissue patches
+
+Processing TCGA-EW-A6SB-01Z-00-DX1.D56E1922-01A9-4AEE-AB95-D69447DD13EE.svs
+Warning: missing objective and mpp; assuming 20x
+TCGA-EW-A6SB-01Z-00-DX1.D56E1922-01A9-4AEE-AB95-D69447DD13EE.svs: 11985 tissue patches
+
+Processing TCGA-D8-A27I-01Z-00-DX1.ACAE0048-7AF0-41C9-992B-6ACDABF80B1C.svs
+Warning: missing objective and mpp; assuming 20x
+TCGA-D8-A27I-01Z-00-DX1.ACAE0048-7AF0-41C9-992B-6ACDABF80B1C.svs: 4163 tissue patches
+
+Processing TCGA-BH-A18G-01Z-00-DX1.DB2B5819-CE83-4E07-BD03-2CD9CF2E246C.svs
+Warning: missing objective and mpp; assuming 20x
+TCGA-BH-A18G-01Z-00-DX1.DB2B5819-CE83-4E07-BD03-2CD9CF2E246C.svs: 3228 tissue patches
+
+Processing TCGA-E2-A15I-01Z-00-DX1.DFF60A40-B03D-438F-A233-06132A213619.svs
+Warning: missing objective and mpp; assuming 20x
+TCGA-E2-A15I-01Z-00-DX1.DFF60A40-B03D-438F-A233-06132A213619.svs: 1909 tissue patches
+
+Processing TCGA-AR-A1AL-01Z-00-DX1.0970370F-6D4B-449A-AF33-76355DD99F91.svs
+Warning: missing objective and mpp; assuming 20x
+TCGA-AR-A1AL-01Z-00-DX1.0970370F-6D4B-449A-AF33-76355DD99F91.svs: 7698 tissue patches
+
+Processing TCGA-B6-A0RO-01Z-00-DX1.3ADBFF05-92CE-41B5-BD49-CB3CE5B74CC9.svs
+Warning: missing objective and mpp; assuming 20x
+Subsampling 26520 patches to 15000
+TCGA-B6-A0RO-01Z-00-DX1.3ADBFF05-92CE-41B5-BD49-CB3CE5B74CC9.svs: 15000 tissue patches
+
+Processing TCGA-E2-A15S-01Z-00-DX1.77CFA95F-F1AE-41BD-BAF8-BCA6F0DFA3A3.svs
+Warning: missing objective and mpp; assuming 20x
+TCGA-E2-A15S-01Z-00-DX1.77CFA95F-F1AE-41BD-BAF8-BCA6F0DFA3A3.svs: 11092 tissue patches
+
+Processing TCGA-E9-A1N6-01Z-00-DX1.C0E8FFDC-2614-4DBF-B51E-4646A3919911.svs
+Warning: missing objective and mpp; assuming 20x
+TCGA-E9-A1N6-01Z-00-DX1.C0E8FFDC-2614-4DBF-B51E-4646A3919911.svs: 4209 tissue patches
+
+Processing TCGA-E9-A5UO-01Z-00-DX1.96BFEB0C-86DB-4D3B-9364-C708937219B2.svs
+Warning: missing objective and mpp; assuming 20x
+TCGA-E9-A5UO-01Z-00-DX1.96BFEB0C-86DB-4D3B-9364-C708937219B2.svs: 8865 tissue patches
+
+Processing TCGA-EW-A1IX-01Z-00-DX1.72AE0E0F-B213-454F-8275-76A7C43FAB86.svs
+Warning: missing objective and mpp; assuming 20x
+TCGA-EW-A1IX-01Z-00-DX1.72AE0E0F-B213-454F-8275-76A7C43FAB86.svs: 9430 tissue patches
+
+Processing TCGA-XX-A89A-01Z-00-DX1.671E2AD6-4D1A-4579-88C1-5B0B15818126.svs
+Warning: missing objective and mpp; assuming 20x
+TCGA-XX-A89A-01Z-00-DX1.671E2AD6-4D1A-4579-88C1-5B0B15818126.svs: 8805 tissue patches
+
+Processing TCGA-A8-A06N-01Z-00-DX1.E25E65F8-DFE0-47CF-9FAB-B82EE8E321F7.svs
+Warning: missing objective and mpp; assuming 20x
+TCGA-A8-A06N-01Z-00-DX1.E25E65F8-DFE0-47CF-9FAB-B82EE8E321F7.svs: 1836 tissue patches
+
+Processing TCGA-EW-A3E8-01Z-00-DX1.E185B2E4-3E16-4C66-90D7-FDB9A14BA00D.svs
+Warning: missing objective and mpp; assuming 20x
+TCGA-EW-A3E8-01Z-00-DX1.E185B2E4-3E16-4C66-90D7-FDB9A14BA00D.svs: 14325 tissue patches
+
+Processing TCGA-A2-A0EY-01Z-00-DX1.2F2428B3-0767-48E0-AC22-443C244CBD16.svs
+Warning: missing objective and mpp; assuming 20x
+Subsampling 19814 patches to 15000
+TCGA-A2-A0EY-01Z-00-DX1.2F2428B3-0767-48E0-AC22-443C244CBD16.svs: 15000 tissue patches
+
+Processing TCGA-AN-A0XP-01Z-00-DX1.A4EE3970-5C1F-482E-9AED-F1E3C52A776F.svs
+Warning: missing objective and mpp; assuming 20x
+TCGA-AN-A0XP-01Z-00-DX1.A4EE3970-5C1F-482E-9AED-F1E3C52A776F.svs: 5097 tissue patches
+
+Processing TCGA-E2-A1LB-01Z-00-DX1.B4AFDB08-BA09-4F6E-806E-4054B790AB8E.svs
+Warning: missing objective and mpp; assuming 20x
+TCGA-E2-A1LB-01Z-00-DX1.B4AFDB08-BA09-4F6E-806E-4054B790AB8E.svs: 7733 tissue patches
+
+Processing TCGA-D8-A1X6-01Z-00-DX1.ABF237D4-708C-46A5-AEF8-58712E5DCC04.svs
+Warning: missing objective and mpp; assuming 20x
+TCGA-D8-A1X6-01Z-00-DX1.ABF237D4-708C-46A5-AEF8-58712E5DCC04.svs: 12939 tissue patches
+
+Processing TCGA-Z7-A8R5-01Z-00-DX1.3BDB407F-514C-4131-B058-FA1E69154276.svs
+Warning: missing objective and mpp; assuming 20x
+TCGA-Z7-A8R5-01Z-00-DX1.3BDB407F-514C-4131-B058-FA1E69154276.svs: 10288 tissue patches
+
+Processing TCGA-C8-A12Q-01Z-00-DX1.CE74E5B7-FD30-4CBE-8716-ECCF2213AAC3.svs
+Warning: missing objective and mpp; assuming 20x
+TCGA-C8-A12Q-01Z-00-DX1.CE74E5B7-FD30-4CBE-8716-ECCF2213AAC3.svs: 8721 tissue patches
+
+Processing TCGA-AR-A5QM-01Z-00-DX1.A9017CED-FF57-4090-95B9-94DC91854347.svs
+Warning: missing objective and mpp; assuming 20x
+TCGA-AR-A5QM-01Z-00-DX1.A9017CED-FF57-4090-95B9-94DC91854347.svs: 10241 tissue patches
+
+Processing TCGA-A2-A04X-01Z-00-DX1.E01A4522-67B3-4FEF-BD6B-99DFED9E7C85.svs
+Warning: missing objective and mpp; assuming 20x
+TCGA-A2-A04X-01Z-00-DX1.E01A4522-67B3-4FEF-BD6B-99DFED9E7C85.svs: 8593 tissue patches
+
+Processing TCGA-PL-A8LY-01A-01-DX1.32047D5E-8A42-480A-B2B8-A56B47B949FD.svs
+Warning: missing objective and mpp; assuming 20x
+TCGA-PL-A8LY-01A-01-DX1.32047D5E-8A42-480A-B2B8-A56B47B949FD.svs: 1347 tissue patches
+
+Processing TCGA-AC-A6IX-01Z-00-DX1.45B63C4F-9DC3-4CED-9DF9-0F86E647BEA3.svs
+Warning: missing objective and mpp; assuming 20x
+TCGA-AC-A6IX-01Z-00-DX1.45B63C4F-9DC3-4CED-9DF9-0F86E647BEA3.svs: 1701 tissue patches
+
+Processing TCGA-BH-A1ES-01Z-00-DX1.C54C809F-748F-4BB0-B018-A8A83A4134C0.svs
+Warning: missing objective and mpp; assuming 20x
+TCGA-BH-A1ES-01Z-00-DX1.C54C809F-748F-4BB0-B018-A8A83A4134C0.svs: 8767 tissue patches
+
+Processing TCGA-OL-A97C-01Z-00-DX1.BDEEDEE2-6D07-4046-A8A9-D6FF8F337393.svs
+Warning: missing objective and mpp; assuming 20x
+TCGA-OL-A97C-01Z-00-DX1.BDEEDEE2-6D07-4046-A8A9-D6FF8F337393.svs: 9831 tissue patches
+
+Processing TCGA-C8-A12T-01Z-00-DX1.EF628C26-C570-4D15-A0C0-58B2CC40ABFC.svs
+Warning: missing objective and mpp; assuming 20x
+TCGA-C8-A12T-01Z-00-DX1.EF628C26-C570-4D15-A0C0-58B2CC40ABFC.svs: 8997 tissue patches
+
+Processing TCGA-AR-A0U4-01Z-00-DX1.DE722DC5-859D-4866-ADCC-ED98EDBFB588.svs
+Warning: missing objective and mpp; assuming 20x
+Subsampling 15149 patches to 15000
+TCGA-AR-A0U4-01Z-00-DX1.DE722DC5-859D-4866-ADCC-ED98EDBFB588.svs: 15000 tissue patches
+
+Processing TCGA-A2-A04Q-01Z-00-DX1.DF7ED6B6-7701-486D-9007-F26B6F0682C4.svs
+Warning: missing objective and mpp; assuming 20x
+TCGA-A2-A04Q-01Z-00-DX1.DF7ED6B6-7701-486D-9007-F26B6F0682C4.svs: 3096 tissue patches
+
+Processing TCGA-A8-A07J-01Z-00-DX1.FE16248C-D890-4750-A9FC-5F72BE8D8B85.svs
+Warning: missing objective and mpp; assuming 20x
+TCGA-A8-A07J-01Z-00-DX1.FE16248C-D890-4750-A9FC-5F72BE8D8B85.svs: 982 tissue patches
+
+Done.
+Saved outputs to: ../tcga_titan_embeddings
